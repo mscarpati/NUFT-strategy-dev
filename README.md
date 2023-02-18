@@ -1,2 +1,2 @@
 # quant-finance
-Some strategies technical indicators; exploration into ML
+Some strategies and technical indicators; exploration into ML
